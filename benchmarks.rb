@@ -3,7 +3,7 @@ require 'benchmark'
 require 'rubygems'
 require 'ruby-prof'
 require 'memcache'
-require 'pp'
+require 'see diff'
 
 
 #require 'grit'
